@@ -9,12 +9,10 @@ An independent Software Engineer who loves to create and share projects about co
 - 😄 Pronouns: He/Him
  
 ### Github Statistic
-<p align="left">
 <a href="https://github.com/sisatput">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sisatput&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sisatput&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
 
 ### Reach me on
 - satriayuda89@gmail.com
