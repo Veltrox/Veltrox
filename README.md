@@ -3,7 +3,7 @@
 An independent Software Engineer who loves to create and share projects about codes and tech!
 
 - 🔭 I’m currently Studying on Telkom Institute of Technology Purwokerto
-- 🌱 I’m currently learning to be Fullstack Dev
+- 🌱 I’m currently learning a Data!
 - 💬 Ask me about Anything you want
 - 📫 How to reach me: satriayuda89@gmail.com
 - 😄 Pronouns: He/Him
